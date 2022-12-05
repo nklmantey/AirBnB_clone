@@ -1,0 +1,30 @@
+.places h1 {
+  font-size: 30px;
+}
+
+.listing,
+.listing3 {
+  width: 390px;
+  height: 30px;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #ff5a5f;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.listing {
+  float: left;
+}
+
+.listing3 {
+  display: flex;
+  margin: auto;
+}
+
+.listing h2,
+.listing3 h2 {
+  font-size: 30px;
+}

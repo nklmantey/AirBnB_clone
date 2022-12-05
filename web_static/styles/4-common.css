@@ -9,6 +9,5 @@ body {
 .container {
   max-width: 1000px;
   margin: 30px auto;
-  display: flex;
   align-self: center;
 }
